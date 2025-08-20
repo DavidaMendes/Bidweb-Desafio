@@ -1,6 +1,5 @@
 # 📒 Documentação do Projeto
 
-Projeto desenvolvido para o desafio técnico da Bidweb.
 A aplicação simula um sistema de monitoramento de vendas, com exibição de gráficos interativos, é possivel no sistema, além de visualizar os dados, criar uma venda, deletar e editar a mesma.
 Sistema feito em API Rest e consumida no Front End.
 
